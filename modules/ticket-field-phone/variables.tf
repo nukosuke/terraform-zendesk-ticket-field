@@ -4,7 +4,7 @@ variable "title" {
 }
 
 variable "position" {
-  type    = "integer"
+  type    = number
   default = 0
 }
 
