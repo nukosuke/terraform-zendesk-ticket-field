@@ -5,7 +5,7 @@ variable "title" {
 
 variable "position" {
   type    = number
-  default = 0
+  default = 8
 }
 
 variable "active" {
