@@ -1,5 +1,5 @@
 variable "title" {
-  type    = "string"
+  type    = string
   default = "Phone"
 }
 
@@ -21,7 +21,7 @@ variable "collapse_for_agent" {
 }
 
 variable "title_in_portal" {
-  type    = "string"
+  type    = string
   default = "Phone"
 }
 
@@ -38,6 +38,6 @@ variable "required_in_portal" {
 }
 
 variable "agent_description" {
-  type    = "string"
+  type    = string
   default = "Phone Number"
 }

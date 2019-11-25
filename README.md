@@ -5,5 +5,5 @@ Ticket field modules for [Terraform Zendesk provider](https://github.com/nukosuk
 
 ## Requirements
 
-- [Terraform](https://www.terraform.io/) >= 0.12.0
+- [Terraform](https://www.terraform.io/) >= 0.12.7
 - [Terraform Zendesk provider](https://github.com/nukosuke/terraform-provider-zendesk) >= 0.0.0
