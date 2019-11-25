@@ -16,7 +16,7 @@ variable "required" {
   default = false
 }
 
-variable "collapse_for_agent" {
+variable "collapsed_for_agents" {
   default = false
 }
 

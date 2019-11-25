@@ -5,7 +5,7 @@ resource "zendesk_ticket_field" "this" {
   active   = var.active
   required = var.required
 
-  collapse_for_agent    = var.collapse_for_agent
+  collapsed_for_agents  = var.collapsed_for_agents
   regexp_for_validation = "[0-9]+-?[0-9]+-?[0-9]+"
   title_in_portal       = var.title_in_portal
   visible_in_portal     = var.visible_in_portal
